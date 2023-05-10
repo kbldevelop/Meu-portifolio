@@ -36,6 +36,10 @@
         width: 200px;
     }
 
+    section.conteudo1 {
+        width: 30vw;
+    }
+
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
